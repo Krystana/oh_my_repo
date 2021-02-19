@@ -9,16 +9,16 @@ So far all the code you can see here was produced in the context of the 12-weeks
 
 - week 4   -  text analysis: 
 
-           building models to predict the artist by a piece of text, using webscraping, HTML parsing, bag-of-words-method, Scikitlearn pipeline &
-           writing a command line interface for making predictions on that.
+    *building models to predict the artist by a piece of text, using webscraping, HTML parsing, bag-of-words-method, Scikitlearn pipeline &
+    *writing a command line interface for making predictions on that.
            
 - week 5   -  creating a dashboard:
 
-           using a postgres database and metabase on cloud servers. 
+    *using a postgres database and metabase on cloud servers. 
 
 - week 6   - docker compose pipeline:
 
-           using Twitter API, mongodb, postgresdb to run a slackbot in docker compose. 
+    *using Twitter API, mongodb, postgresdb to run a slackbot in docker compose. 
         
         
 The projects of week 1-3 will follow, just like the upcoming ones. 
