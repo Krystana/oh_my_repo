@@ -1,4 +1,4 @@
-SPICED ACADEMY DATA SCIENCE BOOTCAMP - week 5: "Dashboar" - Creating a dashboard using cloud database services. 
+SPICED ACADEMY DATA SCIENCE BOOTCAMP - week 5: "Dashboard" - Creating a dashboard using cloud database services. 
 
 I used the well-known dataset of the fictive northwind company, which in my case was provided by Spiced Academy as a collection of .csv files. 
 
