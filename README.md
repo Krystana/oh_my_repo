@@ -1,7 +1,7 @@
 # oh_my_repo
 my projects
 
-02/21
+
 
 In this repository you can have a look at various projects I realised so far. 
 
